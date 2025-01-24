@@ -83,18 +83,3 @@ Install missing dependencies using:
 ```bash
 expo install react-navigation formik yup expo-location react-native-maps
 ```  
-
-## Contributing  
-
-Contributions are welcome! Feel free to open issues or submit pull requests.  
-
-## License  
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.  
-
----  
-
-Happy coding! 🚀  
-```  
-
-This `README.md` provides a clear overview, installation steps, and detailed descriptions of the app's functionality. Let me know if you'd like to customize any section further!
